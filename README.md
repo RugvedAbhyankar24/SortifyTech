@@ -12,4 +12,4 @@ To experience the magic of sorting, see how algorithms such as
 For all the sorting algorithms a randomized array is generated and visualization is presented for all elements during sorting process
 TIME COMPLEXITY ( Best & Worst time) & SPACE COMPLEXITY for all sorting algorithms are displayed according to the choice of sorting technique.
 
-Link for the website- 
+Link for the website- https://rugvedabhyankar24.github.io/SortifyTech/
